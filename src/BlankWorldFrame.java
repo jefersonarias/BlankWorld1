@@ -5,7 +5,7 @@ import java.awt.event.*;
  * Sample application using Frame.
  *
  * @author 
- * @version 1.00 19/12/20
+ * @version 1.00 20/01/04
  */
 public class BlankWorldFrame extends Frame {
     
